@@ -5,7 +5,7 @@ var http = require("http"),
     vaultFiles = process.env.VAULT_FILES,
     vaultSecret = process.env.SECRET_KEY,
     files = [],
-    port = 8888;
+    port = 3000;
 
 function handleRequest(req, res) {
   res.writeHead(200, {"Content-type":"text/html"});
