@@ -46,6 +46,8 @@ The pipeline builds the app, creates a Docker image, pushes it to **DockerHub**,
 ## ScreenShots
 
 <img width="479" height="289" alt="local run capture" src="https://github.com/user-attachments/assets/cbd40a08-bb96-4ad4-82d4-6886d18f6f3e" />
+
+
 <img width="707" height="312" alt="server running" src="https://github.com/user-attachments/assets/c69fa5ea-cc8e-441e-b391-3c7143fd14d4" />
 
 
